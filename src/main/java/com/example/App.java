@@ -15,7 +15,7 @@ public class App
 {
 	@RequestMapping("/") //左のパスでアクセスが有った時に、このメソッドが呼ばれる
 	String home(){
-		return "Hellっっｋo sssddっっｘdoos!";
+		return "Hellっっｋo ssssssddっっｘdoos!";
 	}
 	@RequestMapping("/nagase")
 	String myHome(){
